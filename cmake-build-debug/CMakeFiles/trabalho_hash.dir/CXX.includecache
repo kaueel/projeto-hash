@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kaue/Documents/trabalho-hash/AlunosHash.h
+iostream
+-
+string
+-
+
+C:/Users/Kaue/Documents/trabalho-hash/BasicAlunosHash.cpp
+AlunosHash.h
+C:/Users/Kaue/Documents/trabalho-hash/AlunosHash.h
+
+C:/Users/Kaue/Documents/trabalho-hash/test_AlunosHash.cpp
+iostream
+-
+AlunosHash.h
+C:/Users/Kaue/Documents/trabalho-hash/AlunosHash.h
+
