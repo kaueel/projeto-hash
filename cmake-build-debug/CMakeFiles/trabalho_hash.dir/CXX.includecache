@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Kaue/Documents/trabalho-hash/AlunosHash.h
+C:/Users/Kaue/Desktop/projeto-hash/AlunosHash.h
 iostream
 -
 string
 -
 
-C:/Users/Kaue/Documents/trabalho-hash/BasicAlunosHash.cpp
+C:/Users/Kaue/Desktop/projeto-hash/BasicAlunosHash.cpp
 AlunosHash.h
-C:/Users/Kaue/Documents/trabalho-hash/AlunosHash.h
+C:/Users/Kaue/Desktop/projeto-hash/AlunosHash.h
 
-C:/Users/Kaue/Documents/trabalho-hash/test_AlunosHash.cpp
+C:/Users/Kaue/Desktop/projeto-hash/test_AlunosHash.cpp
 iostream
 -
 AlunosHash.h
-C:/Users/Kaue/Documents/trabalho-hash/AlunosHash.h
+C:/Users/Kaue/Desktop/projeto-hash/AlunosHash.h
 

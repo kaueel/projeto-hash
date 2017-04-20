@@ -34,7 +34,6 @@ class Aluno{
   std::string nome;
 };
 
-
 class AlunosHash {
  public:
 
